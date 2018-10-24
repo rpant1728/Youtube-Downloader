@@ -1,2 +1,2 @@
 # Youtube-Downloader
-A python script to aoutomate the process of downloading videos and playlists from Youtube.
+A python script to automate the process of downloading videos and playlists from Youtube.
